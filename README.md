@@ -1,2 +1,2 @@
-# clas-01
+# class-01
  https://siamislam07.github.io/clas-01/
